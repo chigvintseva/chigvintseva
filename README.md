@@ -9,8 +9,6 @@
 
 - 🤝 I’m looking for help with **improving my skills in full-stack development**
 
-- 👨‍💻 All of my projects are available at [to-be-updated](to-be-updated)
-
 - 💬 Ask me about **ML and Visualization (with Python and Tableau), Predictive Analysis**
 
 - 📫 How to reach me **al.chigvintseva@gmail.com**
