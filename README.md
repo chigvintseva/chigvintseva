@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alena C.</h1>
 <h3 align="center">aspiring full-stack developer and computer science student from Berlin</h3>
 
-- 🔭 I’m currently working on [my personal portoflio website](https://github.com/chigvintseva/personal-portfolio-website)
+<!-- - 🔭 I’m currently working on [my personal portoflio website](https://github.com/chigvintseva/personal-portfolio-website)
 
 - 🌱 I’m currently learning **Java, Front-end tools and frameworks, CS for Digital Engineering (with CAD and C++)**
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [to-be-updated](to-be-updated)
 
-- ⚡ Fun fact **7 in IBDP Math Analysis cuz math rocks**
+- ⚡ Fun fact **7 in IBDP Math Analysis cuz math rocks** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
