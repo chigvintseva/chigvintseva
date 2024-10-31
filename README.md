@@ -5,17 +5,17 @@
 
 <h4 align="center">My Academic Projects in Data Analysis and Machine Learning include:</h4>
 
-⚡**NYC Property Value Prediction	** (working on publishing the paper)
+⚡**NYC Property Value Prediction** (working on publishing this paper)
 Technologies: Python (pandas, numpy, scikit-learn), SQL, Tableau, Lasso Regression
 -	Developed a predictive model using Lasso Regression to analyze real estate data, identifying critical factors affecting property prices.
 Result: Improved prediction reliability by identifying critical price-determining variables, directly applicable to Siemens' SQL Server Data Services (SSDS) tasks.
 
-⚡**Wine Quality Classification	** (working on publishing the paper)
+⚡**Wine Quality Classification** (working on publishing this paper)
 Technologies: Python (pandas, numpy, scikit-learn), Random Forest, SVM
 -	Implemented Random Forest and SVM models to classify wine quality based on chemical properties, applying data preprocessing and hyperparameter tuning.
 Result: Reached high classification accuracy, demonstrating expertise in machine learning and model optimization, which aligns with Siemens' focus on technical problem-solving in data analytics.
 
-⚡**Salary Prediction Model	**
+⚡**Salary Prediction Model**
 Technologies: Python, Tableau, Linear & Polynominal Regression
 -	Built regression models to predict salary trends based on demographics, visualizing insights in Tableau.
 Result: Developed a model providing actionable insights for salary trends, showcasing data analysis capabilities relevant to Siemens’ SQL and data processing solutions.
