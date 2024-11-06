@@ -14,20 +14,6 @@
 - **Technologies:** *Python* (pandas, numpy, scikit-learn), *Random Forest*, *SVM*
 - **Description:** Created a **Random Forest and SVM model** for predicting wine quality based on chemical properties. Enhanced **classification accuracy by 18%** through hyperparameter tuning, showcasing proficiency in feature selection and model evaluation on a dataset with **5,000+ samples**.
 
-⚡**Salary Prediction Model**
-- **Technologies:** *Python*, *Tableau*, *Linear & Polynomial Regression*
-- **Description:** Built **regression models** to analyze and forecast salary trends based on demographic data, achieving a **20% reduction in prediction errors**. Visualized trends in Tableau, providing actionable insights on salary progression to guide organizational planning.
-
-⚡**SQL and Database Management Fundamentals**
-Technologies: MySQL, SQL, Database Management Systems
--	Built and queried databases using MySQL Workbench, focusing on data retrieval, filtering, and relational data structuring in real-world applications.
-Result: Enhanced ability to design and query relational databases.
-
-⚡**Advanced Database Management Systems (DBMS) & Schema Design**
-Technologies: MySQL, SQL, Database Design, UML
--	Applied advanced SQL techniques and database design principles, including normalization and indexing; created a library database schema with UML.
-Result: Achieved practical experience in DBMS and database design, including hands-on SQL application, essential for supporting data operations in tech-driven environments.
-
 <!-- -  🌱 I’m currently learning **Java, Front-end tools and frameworks, CS for Digital Engineering (with CAD and C++)**
 
 - 👯 I’m looking to collaborate on **open-source and university projects**
