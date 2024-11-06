@@ -37,10 +37,12 @@ Result: Achieved practical experience in DBMS and database design, including han
 
 - 💬 Ask me about **ML and Visualization (with Python and Tableau), Predictive Analysis**-->
 
- # 📄 Know about my other experiences at the **Personal Portfolio Website** (https://chigvintseva.github.io/personal-portfolio-website/#header) which I'm working on right now 
-# 📫 Reach me **al.chigvintseva@gmail.com**
+ 📄 Know about my other experiences at the **Personal Portfolio Website** (https://chigvintseva.github.io/personal-portfolio-website/#header) which I'm working on right now 
 
-# ⚡ Fun fact **had 7 in IBDP Math Analysis**
+📫 Reach me **al.chigvintseva@gmail.com**
+
+
+⚡ Fun fact **had 7 in IBDP Math Analysis**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
