@@ -3,7 +3,6 @@
 
 🔭 I’m currently working on building the **Personal Portfolio Website** and strengthening my hard skills.  
 
-<h4 align="center">My Academic Projects in Data Analysis and Machine Learning include:</h4>
 
 # Academic Projects in Machine Learning and Data Analysis
 
