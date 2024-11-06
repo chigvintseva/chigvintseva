@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alena C.</h1>
 <h3 align="center">aspiring full-stack developer and computer science student from Berlin</h3>
 
-🔭 I’m currently working on building the portfolio and strengthening my hard skills. 
+🔭 I’m currently working on building the **Personal Portfolio Website** (https://chigvintseva.github.io/personal-portfolio-website/#header) and strengthening my hard skills.  
 
 <h4 align="center">My Academic Projects in Data Analysis and Machine Learning include:</h4>
 
@@ -37,7 +37,6 @@ Result: Achieved practical experience in DBMS and database design, including han
 
 - 💬 Ask me about **ML and Visualization (with Python and Tableau), Predictive Analysis**-->
 
- 📄 Know about my other experiences at the **Personal Portfolio Website** (https://chigvintseva.github.io/personal-portfolio-website/#header) which I'm working on right now 
 
 📫 Reach me **al.chigvintseva@gmail.com**
 
