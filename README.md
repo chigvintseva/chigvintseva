@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alena C.</h1>
 <h3 align="center">aspiring full-stack developer and computer science student from Berlin</h3>
 
-🔭 I’m currently working on building the **Personal Portfolio Website** (https://chigvintseva.github.io/personal-portfolio-website/#header) and strengthening my hard skills.  
+🔭 I’m currently working on building the **Personal Portfolio Website** and strengthening my hard skills.  
 
 <h4 align="center">My Academic Projects in Data Analysis and Machine Learning include:</h4>
 
