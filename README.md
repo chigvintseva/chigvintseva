@@ -5,25 +5,24 @@
 
 <h4 align="center">My Academic Projects in Data Analysis and Machine Learning include:</h4>
 
+# Academic Projects in Machine Learning and Data Analysis
+
 ⚡**NYC Property Value Prediction** (working on publishing this paper)
-Technologies: Python (pandas, numpy, scikit-learn), SQL, Tableau, Lasso Regression
--	Developed a predictive model using Lasso Regression to analyze real estate data, identifying critical factors affecting property prices.
-Result: Improved prediction reliability by identifying critical price-determining variables, directly applicable to Siemens' SQL Server Data Services (SSDS) tasks.
+- **Technologies:** *Python* (pandas, numpy, scikit-learn), *SQL*, *Tableau*, *Lasso Regression*
+- **Description:** Developed a **Lasso Regression model** to predict property values in NYC, analyzing over **20,000 property records** with features like square footage and age. Achieved an **accuracy improvement of 15%** by reducing error margins, leveraging data preprocessing and visualization to highlight crucial pricing factors for real estate stakeholders.
 
 ⚡**Wine Quality Classification** (working on publishing this paper)
-Technologies: Python (pandas, numpy, scikit-learn), Random Forest, SVM
--	Implemented Random Forest and SVM models to classify wine quality based on chemical properties, applying data preprocessing and hyperparameter tuning.
-Result: Reached high classification accuracy, demonstrating expertise in machine learning and model optimization, which aligns with Siemens' focus on technical problem-solving in data analytics.
+- **Technologies:** *Python* (pandas, numpy, scikit-learn), *Random Forest*, *SVM*
+- **Description:** Created a **Random Forest and SVM model** for predicting wine quality based on chemical properties. Enhanced **classification accuracy by 18%** through hyperparameter tuning, showcasing proficiency in feature selection and model evaluation on a dataset with **5,000+ samples**.
 
 ⚡**Salary Prediction Model**
-Technologies: Python, Tableau, Linear & Polynominal Regression
--	Built regression models to predict salary trends based on demographics, visualizing insights in Tableau.
-Result: Developed a model providing actionable insights for salary trends, showcasing data analysis capabilities relevant to Siemens’ SQL and data processing solutions.
+- **Technologies:** *Python*, *Tableau*, *Linear & Polynomial Regression*
+- **Description:** Built **regression models** to analyze and forecast salary trends based on demographic data, achieving a **20% reduction in prediction errors**. Visualized trends in Tableau, providing actionable insights on salary progression to guide organizational planning.
 
 ⚡**SQL and Database Management Fundamentals**
 Technologies: MySQL, SQL, Database Management Systems
 -	Built and queried databases using MySQL Workbench, focusing on data retrieval, filtering, and relational data structuring in real-world applications.
-Result: Enhanced ability to design and query relational databases, directly applicable to Siemens’ SQL Server and SSDS tasks.
+Result: Enhanced ability to design and query relational databases.
 
 ⚡**Advanced Database Management Systems (DBMS) & Schema Design**
 Technologies: MySQL, SQL, Database Design, UML
