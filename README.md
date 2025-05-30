@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Alena C.</h1>
-<h3 align="center">aspiring full-stack developer, BSc Computer Science and 42School student from Berlin</h3>
+<h1 align="center">Hi 👋, I'm Alena!</h1>
+<h3 align="center">Aspiring full-stack developer, BSc Computer Science and 42School student from Berlin</h3>
+
+📫 Reach me **al.chigvintseva@gmail.com**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/alena-chigvintseva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alena-chigvintseva" height="30" width="40" /></a>
+</p>
 
 <!---🔭 I’m currently working on building the **Personal Portfolio Website** and strengthening my hard skills.  
 
