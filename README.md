@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alena!</h1>
-<h3 align="center">Aspiring full-stack developer, BSc Computer Science and 42School student from Berlin</h3>
-
+<h3 align="center">Full-stack developer, Data Scientist, Master in Computer Science student at TU Darmstadt </h3>
+previously School 42 Student & BSc of COmputer Science graduate
 📫 Reach me **al.chigvintseva@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
